@@ -1,8 +1,8 @@
-QR Code Generator Bot
+#QR Code Generator Bot
 
 Welcome to the QR Code Generator Bot! This bot allows users to generate QR codes by simply sending a link. It also includes a feature to contact the developer directly via Telegram.
 
-Features
+#Features
 
 Generate QR codes for any link you send.
 
@@ -10,7 +10,7 @@ Inline keyboard button to contact the developer.
 
 Friendly loading animation while generating QR codes.
 
-Prerequisites
+#Prerequisites
 
 Python 3.9 or higher installed on your system.
 
@@ -20,7 +20,7 @@ pip install python-telegram-bot[qrcode] pillow
 
 A Telegram bot token. You can create a bot and obtain the token from BotFather.
 
-Setup Instructions
+#Setup Instructions
 
 1. Clone the Repository
 
