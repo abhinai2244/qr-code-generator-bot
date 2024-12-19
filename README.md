@@ -44,7 +44,7 @@ This project is a comprehensive integration of a **Telegram Bot** and a **Flask 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/abhinai2244/qr-code-generator-bot.git>
    cd <repository-folder>
    ```
 
